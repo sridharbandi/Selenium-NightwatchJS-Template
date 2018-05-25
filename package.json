@@ -10,7 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "chromedriver": "^2.38.3",
+    "edgedriver": "^4.17134.0",
     "geckodriver": "^1.11.0",
+    "iedriver": "^3.9.2",
     "nightwatch": "^0.9.21",
     "selenium-server": "^3.12.0"
   }
